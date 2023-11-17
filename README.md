@@ -1,6 +1,6 @@
 # Olá, Mundo! 👋
 
-Eu sou [Wallace Lopes], um profissional de Ciência de Dados apaixonado por explorar dados e descobrir insights valiosos. Bem-vindo ao meu canto no GitHub, onde compartilho projetos, experimentos e contribuições para a comunidade de Ciência de Dados.
+Eu sou Wallace Lopes, um profissional de Ciência de Dados apaixonado por explorar dados e descobrir insights valiosos. Bem-vindo ao meu canto no GitHub, onde compartilho projetos, experimentos e contribuições para a comunidade de Ciência de Dados.
 
 ## 🚀 Habilidades em desenvolvimento
 
