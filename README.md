@@ -13,8 +13,8 @@ Eu sou Wallace Lopes, um profissional de Ciência de Dados apaixonado por explor
 
 ## 💼 Projetos Destacados
 
-- [Projeto de Gerenciamento de Produtos - Ada Tech - VemSerTech - Ifood]((https://github.com/wallacelops/projeto_de_gerenciamento_de_produtos): Este projeto, criado em parceria com o programa VemSerTech, o iFood e Ada Tech, consiste em um sistema básico de gerenciamento de produtos em Python. Sob a liderança de Wallace Lopes, Vitor Fontenele, Amanda Lima e Daniele Travessa, o sistema utiliza um arquivo de texto (produtos.txt) para armazenar e recuperar dados sobre os produtos. Suas principais funções envolvem carregar, salvar, cadastrar, consultar, listar, atualizar e excluir produtos.
-
+- [Projeto de Gerenciamento de Produtos - Ada Tech - VemSerTech - Ifood]((https://github.com/wallacelops/projeto_de_gerenciamento_de_produtos): Este projeto, criado em parceria com o programa VemSerTech, o iFood e Ada Tech.
+  
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wallacelops&show_icons=true&theme=dark)
