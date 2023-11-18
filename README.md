@@ -13,7 +13,7 @@ Eu sou Wallace Lopes, um profissional de Ciência de Dados apaixonado por explor
 
 ## 💼 Projetos Destacados
 
-- [Projeto de Gerenciamento de Produtos - Ada Tech - VemSerTech - Ifood]((https://github.com/wallacelops/projeto_de_gerenciamento_de_produtos): Este projeto, criado em parceria com o programa VemSerTech, o iFood e Ada Tech.
+- [Projeto de Gerenciamento de Produtos - Ada Tech - VemSerTech - Ifood](https://github.com/wallacelops/projeto_de_gerenciamento_de_produtos): Este projeto, criado em parceria com o programa VemSerTech - IFood e AdaTech.
   
 ## 📊 Estatísticas do GitHub
 
